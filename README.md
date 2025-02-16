@@ -36,3 +36,7 @@ Demographic Focus: Tailor marketing strategies to women and the adult age group 
 Regional Strategy: Target Maharashtra with specialized offers and optimized stock distribution.
 Order Fulfillment: Maintain the focus on high delivery efficiency, but work on minimizing Pending and Cancelled orders.
 Product Stocking: Ensure that the top-selling SKUs are consistently available to meet demand.
+
+
+
+
